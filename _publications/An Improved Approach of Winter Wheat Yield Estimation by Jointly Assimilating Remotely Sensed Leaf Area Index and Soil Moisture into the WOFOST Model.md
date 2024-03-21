@@ -15,7 +15,7 @@ The crop model data assimilation approach has been acknowledged as an effective 
 ## Key words
 data assimilation; WOFOST model; EnKF; yield estimation
 
-[Download paper here](https://github.com/wenzhuo727/wen/blob/master/files/remotesensing2023.pdf)
+[Download paper here](https://wenzhuo727.github.io/wen/files/remotesensing2023.pdf)
 
 
 
