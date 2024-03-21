@@ -10,7 +10,7 @@ citation: Hai, Huang; Jianxi, Huang; Xuecao, Li; Wen, Zhuo; Yantong, Wu; Quandi,
 ---
 
 ## Abstract
-As a key variable to characterize the process of crop growth, the aboveground biomass (aGB) plays an
+As a key variable to characterize the process of crop growth, the aboveground biomass (AGB) plays an
 important role in crop management and production. Process-based models and remote sensing are
 two important scientifc methods for crop AGB estimation. In this study, we combined observations
 from agricultural meteorological stations and county-level yield statistics to calibrate a process-based
