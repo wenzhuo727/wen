@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Agricultural Information Technology, China Agricultural University, 2020 (Supervisor: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html), [Prof. Xiaodong Zhang](http://clst.cau.edu.cn/art/2018/8/8/art_31196_580627.html))
-  * Visiting Scholar at the Center for Earth Observation and Modeling, University of Oklahoma, 2019 (Supervisor: [Prof. Xiangming Xiao](https://www.ou.edu/irees/about/people/staff-and-partners/xiangming-xiao))
-* M.S. in Geographical Information Science, China Agricultural University, 2015 (Supervisor: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html))
-* B.S. in Geographical Information Science, Huazhong Agricultural University, 2013
+* **Ph.D** in Agricultural Information Technology, China Agricultural University, 2020 (**Supervisor**: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html), [Prof. Xiaodong Zhang](http://clst.cau.edu.cn/art/2018/8/8/art_31196_580627.html))
+  * **Visiting Scholar** at the Center for Earth Observation and Modeling, University of Oklahoma, 2019 (**Supervisor**: [Prof. Xiangming Xiao](https://www.ou.edu/irees/about/people/staff-and-partners/xiangming-xiao))
+* **M.S.** in Geographical Information Science, China Agricultural University, 2015 (**Supervisor**: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html))
+* **B.S.** in Geographical Information Science, Huazhong Agricultural University, 2013
 
 Work experience
 ======
-* Jan.2023 - Now: Postdoctoral Researcher
+* Jan.2023 - Now: **Postdoctoral Researcher**
   * School of Earth, Environment & Society, McMaster University
   * Supervisor: [Prof. Alemu Gonsamo](https://remotesensing-mcmaster.org/)
 
-* Sep.2020 - Dec.2022: Postdoctoral Researcher
+* Sep.2020 - Dec.2022: **Postdoctoral Researcher**
   * Institute of Ecology and Agrometeorology, Chinese Academy of Meteorological Sciences
   * Supervisor: [Prof. Shibo Fang](https://people.ucas.ac.cn/~0039464?language=en)
 
-* Jul.2015 - Aug.2016: Research Assistant
+* Jul.2015 - Aug.2016: **Research Assistant**
   * China Agricultural University
   * Supervisor: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html)
   
