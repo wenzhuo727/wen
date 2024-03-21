@@ -15,7 +15,7 @@ Land surface temperature (Ts) is one of the important parameters of the Earth’
 ## Key words
 Gap flling, land surface temperature, reconstruction, remote sensing
 
-[Download paper here](https://github.com/wenzhuo727/wen/blob/master/files/TGRS2024.pdf)
+[Download paper here](https://wenzhuo727.github.io/wen/files/TGRS2024.pdf)
 
 
 
