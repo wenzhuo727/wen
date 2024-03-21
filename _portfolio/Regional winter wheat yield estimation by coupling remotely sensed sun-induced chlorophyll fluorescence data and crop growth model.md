@@ -1,6 +1,6 @@
 ---
 title: "Regional winter wheat yield estimation by coupling remotely sensed sun-induced chlorophyll fluorescence data and crop growth model. (Funding Agency: The Office of China Postdoctoral Council)"
-excerpt: "This project was funded by The Office of China Postdoctoral Council (OCPC) in 2022"
+excerpt: "This project was funded by The Office of China Postdoctoral Council (OCPC) in 2022."
 collection: portfolio
 ---
 
