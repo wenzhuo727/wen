@@ -21,4 +21,4 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 
 **[Mar. 2024]** I will attend **EGU2024** at Vienna, Austria in person (for the first time to attend the assembly).
 
-**[Feb. 2024]** The [abstruct](https://meetingorganizer.copernicus.org/EGU24/EGU24-4191.html) submitted to **EGU2024** is already online.
+**[Feb. 2024]** The [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-4191.html) submitted to **EGU2024** is already online.
