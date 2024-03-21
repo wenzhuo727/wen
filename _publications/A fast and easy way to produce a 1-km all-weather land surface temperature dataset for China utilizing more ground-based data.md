@@ -6,7 +6,7 @@ excerpt: 'This study is to achieve the simple and rapid acquisition of high-prec
 date: 2024-02-22
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://doi.org/10.1109/TGRS.2024.3368707'
-citation: 10.	Yanru, Yu; Shibo Fang*; Wen Zhuo, Jiahao Han. A fast and easy way to produce a 1-km all-weather land surface temperature dataset for China utilizing more ground-based data. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62, 5002016.
+citation: Yanru, Yu; Shibo Fang; Wen Zhuo, Jiahao Han. A fast and easy way to produce a 1-km all-weather land surface temperature dataset for China utilizing more ground-based data. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62, 5002016.
 ---
 
 ## Abstract
