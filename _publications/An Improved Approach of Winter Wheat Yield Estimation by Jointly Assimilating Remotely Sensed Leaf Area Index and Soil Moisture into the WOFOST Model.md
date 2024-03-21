@@ -1,7 +1,7 @@
 ---
 title: "An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: [/publication/An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model](https://doi.org/10.3390/rs15071825)
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-29
 venue: 'Remote Sensing'
