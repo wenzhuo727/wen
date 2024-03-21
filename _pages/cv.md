@@ -32,11 +32,11 @@ Work experience
   
 Awards
 ======
-* 2022: International Postdoctoral Exchange Fellowship Program by the Office of China Postdoctoral Council (OCPC)
-* 2019: First-class Doctoral Scholarship of China Agricultural University
-* 2018: Study abroad scholarship issued by the China Scholarship Council (CSC)
-* 2017: Outstanding Award of 2017 Annual Conference of Chinese Society of Agricultural Engineering
-* 2015: First-class Postgraduate Scholarship of China Agricultural University
+* 2022:    International Postdoctoral Exchange Fellowship Program by the Office of China Postdoctoral Council (OCPC)
+* 2019:    First-class Doctoral Scholarship of China Agricultural University
+* 2018:    Study abroad scholarship issued by the China Scholarship Council (CSC)
+* 2017:    Outstanding Award of 2017 Annual Conference of Chinese Society of Agricultural Engineering
+* 2015:    First-class Postgraduate Scholarship of China Agricultural University
 
 Publications
 ======
