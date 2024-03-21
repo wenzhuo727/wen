@@ -12,7 +12,7 @@ title                    : "Wen Zhuo/Homepage"
 title_separator          : "-"
 name                     : &name "Wen Zhuo"
 description              : &description "PostDoc @ McMaster University"
-url                      : https://wenzhuo727.github.io/wen/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wenzhuo727.github.io/wen # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenzhuo727/wen"
 
@@ -27,7 +27,7 @@ author:
   bio              : "PostDoc @ McMaster University"
   location         : "Canada"
   employer         : "McMaster University"
-  uri              : https://wenzhuo727.github.io/wen/# URL
+  uri              : https://wenzhuo727.github.io/wen# URL
   email            : "zhuowen1992@foxmail.com" 
 
   # Academic websites
@@ -203,7 +203,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
