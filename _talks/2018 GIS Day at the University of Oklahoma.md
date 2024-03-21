@@ -1,7 +1,7 @@
 ---
 title: "Assimilation of satellite-based gross primary production with a crop growth model to improve regional-scale estimation of winter wheat yield"
 collection: talks
-type: "talks"
+type: "Poster"
 permalink: /talks/2018 GIS Day at the University of Oklahoma
 venue: "2018 GIS Day at the University of Oklahoma"
 date: 2018-11-22
