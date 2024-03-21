@@ -6,7 +6,7 @@ excerpt: 'This study aims at proposing a simple but accurate approach to providi
 date: 2020-01-02
 venue: 'Journal of Integrative Agriculture'
 paperurl: 'https://doi.org/10.1016/S2095-3119(19)62657-2'
-citation: Ran, Huang; Jianxi, Huang; Chao, Zhang; Hongyuan, Ma; Wen, Zhuo; Yingyi, Chen; Dehai, Zhu; Qingling, Wu; Mansaray, R. Lamin. Soil temperature estimation at different depths, using remotely sensed data. Journal of Integrative Agriculture, 2019, 18(0): 2-15.
+citation: Ran, Huang; Jianxi, Huang; Chao, Zhang; Hongyuan, Ma; Wen, Zhuo; Yingyi, Chen; Dehai, Zhu; Qingling, Wu; Mansaray, R. Lamin. Soil temperature estimation at different depths using remotely sensed data. Journal of Integrative Agriculture, 2019, 18(0) 2-15.
 ---
 
 ## Abstract
