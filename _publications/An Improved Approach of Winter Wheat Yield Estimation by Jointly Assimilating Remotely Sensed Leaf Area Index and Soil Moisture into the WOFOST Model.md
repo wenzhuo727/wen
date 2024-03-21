@@ -6,7 +6,7 @@ excerpt: 'This study aims to examine the accuracy of crop yield estimation throu
 date: 2023-03-29
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs15071825'
-citation: $Wen, Zhuo$; Hai, Huang; Xinran, Gao; Xuecao, Li; Jianxi, Huang. An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model. Remote Sensing, 2023; 15(7):1825.
+citation: Wen, Zhuo; Hai, Huang; Xinran, Gao; Xuecao, Li; Jianxi, Huang. An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model. Remote Sensing, 2023; 15(7):1825.
 ---
 
 ## Abstract
@@ -15,7 +15,7 @@ The crop model data assimilation approach has been acknowledged as an effective 
 ## Key words
 data assimilation; WOFOST model; EnKF; yield estimation
 
-[Download paper here](http://academicpages.github.io/files/remotesensing2023.pdf)
+[Download paper here](https://github.com/wenzhuo727/wen/blob/master/files/remotesensing2023.pdf)
 
 
 
