@@ -21,7 +21,7 @@ repository               : "wenzhuo727/wen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :# "ZHUOWEN--Digital photo.jpg"
+  avatar           : "ZHUOWEN--Digital photo.jpg"
   name             : "Wen Zhuo (卓文)"
   pronouns         : # example: "he/him"  
   bio              : "PostDoc @ McMaster University"
