@@ -1,8 +1,10 @@
 ---
-title: "Study on the expansion of silage maize in the agro-pastoral ecotone in North China by assimilating remote sensing data into crop growth model. Funding Agency: National Natural Science Foundation of China. "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ZHUOWEN--Digital photo.jpg'>"
+title: "Study on the expansion of silage maize in the agro-pastoral ecotone in North China by assimilating remote sensing data into crop growth model. (Funding Agency: National Natural Science Foundation of China)"
+excerpt: "This project was funded by National Natural Science Foundation of China (NSFC) in 2023."
 collection: portfolio
 ---
+The project execution period is from 2024 to 2026.
+
 ## Abstract
 The northern agro-pastoral ecotone is a significant region connecting the eastern
 agricultural areas and the western grassland pastoral areas in China. However, the
