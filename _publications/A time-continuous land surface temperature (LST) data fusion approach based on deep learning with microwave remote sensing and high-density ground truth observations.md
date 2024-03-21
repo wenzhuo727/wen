@@ -15,7 +15,7 @@ Land surface temperature (LST) is a crucial parameter in the circulation of wate
 ## Key words
 Land surface temperature; Earth big data; Deep learning; FY-3C/3D microwave remote sensing; Climate driven; Anthropogenic driven
 
-[Download paper here](https://github.com/wenzhuo727/wen/blob/master/files/STE2024.pdf)
+[Download paper here](https://wenzhuo727.github.io/wen/files/STE2024.pdf)
 
 
 
