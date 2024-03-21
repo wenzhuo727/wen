@@ -30,6 +30,13 @@ Work experience
   * China Agricultural University
   * Supervisor: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html)
   
+Awards
+======
+* 2022: International Postdoctoral Exchange Fellowship Program by the Office of China Postdoctoral Council (OCPC)
+* 2019: First-class Doctoral Scholarship of China Agricultural University
+* 2018: Study abroad scholarship issued by the China Scholarship Council (CSC)
+* 2017: Outstanding Award of 2017 Annual Conference of Chinese Society of Agricultural Engineering
+* 2015: First-class Postgraduate Scholarship of China Agricultural University
 
 Publications
 ======
@@ -37,13 +44,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Research Grant
 ======
   <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
