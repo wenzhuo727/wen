@@ -6,7 +6,7 @@ excerpt: 'This paper reports on a Raster Dataset Clean & Reconstitution Multi-Gr
 date: 2018-08-30
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs10091376'
-citation: Sijing, Ye; Diyou, Liu; Xiaochuang, Yao; Huaizhi, Tang; Quan, Xiong; Wen, Zhuo; Zhenbo, Du; Jianxi, Huang; Wei, Su; Shi, Shen; Zuliang, Zhao; Shaolong, Cui; Lixin, Ning; Dehai, Zhu; Changxiu, Cheng; Changqing, Song. RDCRMG: A raster dataset clean & reconstitution multi-grid architecture for remote sensing monitoring of vegetation dryness. Remote Sensing, 2018, 10, 1376. 
+citation: Sijing, Ye; Diyou, Liu; Xiaochuang, Yao; Huaizhi, Tang; Quan, Xiong; Wen, Zhuo; Zhenbo, Du; Jianxi, Huang; Wei, Su; Shi, Shen; Zuliang, Zhao; Shaolong, Cui; Lixin, Ning; Dehai, Zhu; Changxiu, Cheng; Changqing, Song. RDCRMG A raster dataset clean & reconstitution multi-grid architecture for remote sensing monitoring of vegetation dryness. Remote Sensing, 2018, 10, 1376. 
 ---
 
 ## Abstract
