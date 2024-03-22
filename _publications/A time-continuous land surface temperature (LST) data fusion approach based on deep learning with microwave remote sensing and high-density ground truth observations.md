@@ -2,7 +2,7 @@
 title: "A time-continuous land surface temperature (LST) data fusion approach based on deep learning with microwave remote sensing and high-density ground truth observations"
 collection: publications
 permalink: /publication/A time-continuous land surface temperature (LST) data fusion approach based on deep learning with microwave remote sensing and high-density ground truth observations
-excerpt: 'This study aims to adopt the “Earth big data” generated from high-density station observation and microwave remote sensing data to monitor LST based on deep learning (U-Net family) for the first time.'
+excerpt: "This study aims to adopt the “Earth big data” generated from high-density station observation and microwave remote sensing data to monitor LST based on deep learning (U-Net family) for the first time.<br/><img src='/wen/images/STE2024.jpg'>"
 date: 2024-01-13
 venue: 'Science of the Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2024.169992'
