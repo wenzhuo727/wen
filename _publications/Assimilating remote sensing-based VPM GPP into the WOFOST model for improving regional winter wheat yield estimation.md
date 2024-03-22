@@ -2,7 +2,7 @@
 title: "Assimilating remote sensing-based VPM GPP into the WOFOST model for improving regional winter wheat yield estimation"
 collection: publications
 permalink: /publication/Assimilating remote sensing-based VPM GPP into the WOFOST model for improving regional winter wheat yield estimation
-excerpt: 'In this study, a novel crop data-model assimilation framework was proposed that assimilates accumulative GPP estimates from the VPM model into the WOFOST model using EnKF algorithm to estimate winter wheat GPP and grain yield.'
+excerpt: "In this study, a novel crop data-model assimilation framework was proposed that assimilates accumulative GPP estimates from the VPM model into the WOFOST model using EnKF algorithm to estimate winter wheat GPP and grain yield.<br/><img src='/wen/images/EJA2022.jpg'>"
 date: 2022-06-03
 venue: 'European Journal of Agronomy'
 paperurl: 'https://doi.org/10.1016/j.eja.2022.126556'
