@@ -2,7 +2,7 @@
 title: "Assimilating soil moisture retrieved from Sentinel-1 and Sentinel-2 data into WOFOST model to improve winter wheat yield estimation"
 collection: publications
 permalink: /publication/Assimilating soil moisture retrieved from Sentinel-1 and Sentinel-2 data into WOFOST model to improve winter wheat yield estimation
-excerpt: 'The aim of this study is to improve the accuracy for winter wheat yield estimation by assimilating time series soil moisture images, which are retrieved by a water cloud model using SAR and optical data as input, into the crop model.'
+excerpt: "The aim of this study is to improve the accuracy for winter wheat yield estimation by assimilating time series soil moisture images, which are retrieved by a water cloud model using SAR and optical data as input, into the crop model.<br/><img src='/wen/images/RS2019.jpg'>"
 date: 2019-07-08
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs11131618'
