@@ -2,7 +2,7 @@
 title: "RDCRMG: A raster dataset clean & reconstitution multi-grid architecture for remote sensing monitoring of vegetation dryness"
 collection: publications
 permalink: /publication/RDCRMG A raster dataset clean & reconstitution multi-grid architecture for remote sensing monitoring of vegetation dryness
-excerpt: 'This paper reports on a Raster Dataset Clean & Reconstitution Multi-Grid (RDCRMG) architecture for remote sensing monitoring of vegetation dryness in which different types of raster datasets have been partitioned, organized and systematically applied.'
+excerpt: "This paper reports on a Raster Dataset Clean & Reconstitution Multi-Grid (RDCRMG) architecture for remote sensing monitoring of vegetation dryness in which different types of raster datasets have been partitioned, organized and systematically applied.<br/><img src='/wen/images/RS2018.jpg'>"
 date: 2018-08-30
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs10091376'
