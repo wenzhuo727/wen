@@ -27,7 +27,7 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 **[Feb. 2024]** 
 * The [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-4191.html) submitted to [**EGU2024**](https://www.egu24.eu/) is already online.
 
-* New paper led by [Dr. Yanru Yu](https://www.researchgate.net/profile/Yanru-Yu-2) was published in [IEEE Transaction on Geoscience and Remote Sensing](https://doi.org/10.1109/TGRS.2024.3368707). This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data. [Download paper here](https://wenzhuo727.github.io/wen/files/TGRS2024.pdf)
+* New paper led by [Dr. Yanru Yu](https://www.researchgate.net/profile/Yanru-Yu-2) was published in [IEEE Transactions on Geoscience and Remote Sensing](https://doi.org/10.1109/TGRS.2024.3368707). This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data. [Download paper here](https://wenzhuo727.github.io/wen/files/TGRS2024.pdf)
 
 -------------
 
