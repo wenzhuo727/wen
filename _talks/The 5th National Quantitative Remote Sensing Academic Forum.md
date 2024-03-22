@@ -1,7 +1,7 @@
 ---
 title: "Prediction of winter wheat yield based on remote sensing and crop growth model data assimilation"
 collection: talks
-type: "talks"
+type: "Presentation"
 permalink: /talks/The 5th National Quantitative Remote Sensing Academic Forum
 venue: "The 5th National Quantitative Remote Sensing Academic Forum"
 date: 2021-06-27
