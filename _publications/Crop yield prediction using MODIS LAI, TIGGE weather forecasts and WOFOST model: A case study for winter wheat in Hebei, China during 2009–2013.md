@@ -2,7 +2,7 @@
 title: "Crop yield prediction using MODIS LAI TIGGE weather forecasts and WOFOST model A case study for winter wheat in Hebei China during 2009–2013"
 collection: publications
 permalink: /publication/Crop yield prediction using MODIS LAI, TIGGE weather forecasts and WOFOST model A case study for winter wheat in Hebei, China during 2009-2013
-excerpt: "The objective of this study is to predict winter wheat yield at the regional scale and improve the accuracy by assimilating remotely sensed observations.<br/><img src='/images/500x300.png'>"
+excerpt: "The objective of this study is to predict winter wheat yield at the regional scale and improve the accuracy by assimilating remotely sensed observations.<br/><img src='/wen/images/JAG2021.jpg'>"
 date: 2021-12-28
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
 paperurl: 'https://doi.org/10.1016/j.jag.2021.102668'
