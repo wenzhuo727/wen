@@ -1,7 +1,7 @@
 ---
 title: "Comparative study on drought monitoring and yield impact assessment based on TVDI and DSI"
 collection: talks
-type: "talks"
+type: "Presentation and conference paper"
 permalink: /talks/2017 Annual Conference of Chinese Society of Agricultural Engineering
 venue: "2017 Annual Conference of Chinese Society of Agricultural Engineering"
 date: 2017-06-17
