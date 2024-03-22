@@ -2,7 +2,7 @@
 title: "Comparison of three remotely sensed drought indices for assessing the impact of drought on winter wheat yield"
 collection: publications
 permalink: /publication/Comparison of three remotely sensed drought indices for assessing the impact of drought on winter wheat yield
-excerpt: 'In this study, we evaluated the ability of three widely used remotely sensed drought indices (VHI, DSI and TVDI) for agricultural drought monitoring in Shaanxi and Henan provinces in the North China Plain.'
+excerpt: "In this study, we evaluated the ability of three widely used remotely sensed drought indices (VHI, DSI and TVDI) for agricultural drought monitoring in Shaanxi and Henan provinces in the North China Plain.<br/><img src='/wen/images/IJDE2018.jpg'>"
 date: 2018-11-07
 venue: 'International Journal of Digital Earth'
 paperurl: 'https://doi.org/10.1080/17538947.2018.1542040'
