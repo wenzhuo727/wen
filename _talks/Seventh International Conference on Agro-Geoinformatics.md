@@ -1,7 +1,7 @@
 ---
 title: "Assimilating SAR and optical remote sensing data into WOFOST model for improving winter wheat yield estimation"
 collection: talks
-type: "talks"
+type: "Presentation and conference paper"
 permalink: /talks/Seventh International Conference on Agro-Geoinformatics
 venue: "Seventh International Conference on Agro-Geoinformatics"
 date: 2018-08-06
