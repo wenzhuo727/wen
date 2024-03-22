@@ -2,7 +2,7 @@
 title: "Effects of climate warming on the potential northern planting boundaries of Three Main Grain Crops in China"
 collection: publications
 permalink: /publication/Effects of climate warming on the potential northern planting boundaries of Three Main Grain Crops in China
-excerpt: 'In this study, we analyzed the effect of climate warming on the potential northern planting boundaries of three specific crops (winter wheat, spring maize, double and triple rice cropping systems) during two time periods (1961–1990 and 1991–2020) using meteorological data from 2437 national weather stations.'
+excerpt: "In this study, we analyzed the effect of climate warming on the potential northern planting boundaries of three specific crops (winter wheat, spring maize, double and triple rice cropping systems) during two time periods (1961–1990 and 1991–2020) using meteorological data from 2437 national weather stations.<br/><img src='/wen/images/Agriculture2022.jpg'>"
 date: 2022-05-25
 venue: 'Agriculture'
 paperurl: 'https://doi.org/10.3390/agriculture12060746'
