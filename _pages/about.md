@@ -30,5 +30,5 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 -------------
 
 <p align="center">
-<a href="https://clustrmaps.com/site/1byyq"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tPVmfLYQKMxvwsYFx7Qj-VAtapgEWhLIvATLdLc0XJc&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1byyq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=1e5bdf&w=657&t=tt&d=tPVmfLYQKMxvwsYFx7Qj-VAtapgEWhLIvATLdLc0XJc&co=ffffff&ct=19181b'/></a>
 </p>
