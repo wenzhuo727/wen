@@ -2,7 +2,7 @@
 title: "Integrating remotely sensed water stress factor with a crop growth model for winter wheat yield estimation in the North China Plain during 2008–2018"
 collection: publications
 permalink: /publication/Integrating remotely sensed water stress factor with a crop growth model for winter wheat yield estimation in the North China Plain during 2008–2018
-excerpt: "The objective of this study was to estimate winter wheat yield at the regional scale in the NCP, and to improve yield estimation accuracy by integrating remotely sensed water stress factor with the WOFOST model.<br/><img src='/wen/images/CJ2022.jpg'>"
+excerpt: "The objective of this study was to estimate winter wheat yield at the regional scale in the NCP, and to improve yield estimation accuracy by integrating remotely sensed water stress factor with the WOFOST model.<br/><br/><img src='/wen/images/CJ2022.jpg' width='500' height='227'>"
 date: 2022-05-16
 venue: 'Crop Journal'
 paperurl: 'https://doi.org/10.1016/j.cj.2022.04.004'
