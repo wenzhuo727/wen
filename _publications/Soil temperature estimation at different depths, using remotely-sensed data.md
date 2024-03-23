@@ -2,7 +2,7 @@
 title: "Soil temperature estimation at different depths, using remotely-sensed data"
 collection: publications
 permalink: /publication/Soil temperature estimation at different depths, using remotely-sensed data
-excerpt: "This study aims at proposing a simple but accurate approach to providing spatially continuous estimation of the daily spatial dynamics of soil temperature using moderate resolution imaging spectroradiometer (MODIS), taking northern China as case study.<br/><img src='/wen/images/JIA2020.jpg'>"
+excerpt: "This study aims at proposing a simple but accurate approach to providing spatially continuous estimation of the daily spatial dynamics of soil temperature using moderate resolution imaging spectroradiometer (MODIS), taking northern China as case study.<br/><br/><img src='/wen/images/JIA2020.jpg' width='500' height='285'>"
 date: 2020-01-02
 venue: 'Journal of Integrative Agriculture'
 paperurl: 'https://doi.org/10.1016/S2095-3119(19)62657-2'
