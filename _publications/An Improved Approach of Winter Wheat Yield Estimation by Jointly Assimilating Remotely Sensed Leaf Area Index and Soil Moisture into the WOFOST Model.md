@@ -2,7 +2,7 @@
 title: "An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model"
 collection: publications
 permalink: /publication/An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model
-excerpt: "This study aims to examine the accuracy of crop yield estimation through the joint assimilation of leaf area index (LAI) and soil moisture (SM) and to examine the scale effect between remotely sensed data and crop model simulations.<br/><img src='/wen/images/RS2023.jpg' width='500'>"
+excerpt: "This study aims to examine the accuracy of crop yield estimation through the joint assimilation of leaf area index (LAI) and soil moisture (SM) and to examine the scale effect between remotely sensed data and crop model simulations.<br/><br/><img src='/wen/images/RS2023.jpg' width='500'>"
 date: 2023-03-29
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs15071825'
