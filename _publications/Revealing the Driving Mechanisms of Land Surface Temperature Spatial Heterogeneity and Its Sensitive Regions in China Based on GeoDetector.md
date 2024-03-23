@@ -2,7 +2,7 @@
 title: "Revealing the Driving Mechanisms of Land Surface Temperature Spatial Heterogeneity and Its Sensitive Regions in China Based on GeoDetector"
 collection: publications
 permalink: /publication/Revealing the Driving Mechanisms of Land Surface Temperature Spatial Heterogeneity and Its Sensitive Regions in China Based on GeoDetector
-excerpt: "This study investigated the driving forces of LST at the annual scale from the period 2003–2018 in the perspective of spatial heterogeneity based on GeoDetector.<br/><img src='/wen/images/RS20232.jpg'>"
+excerpt: "This study investigated the driving forces of LST at the annual scale from the period 2003–2018 in the perspective of spatial heterogeneity based on GeoDetector.<br/><br/><img src='/wen/images/RS20232.jpg' width='500' height='476'>"
 date: 2023-05-29
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs15112814'
