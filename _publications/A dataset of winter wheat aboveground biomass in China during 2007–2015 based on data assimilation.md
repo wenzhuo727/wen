@@ -2,7 +2,7 @@
 title: "A dataset of winter wheat aboveground biomass in China during 2007–2015 based on data assimilation"
 collection: publications
 permalink: /publication/A dataset of winter wheat aboveground biomass in China during 2007–2015 based on data assimilation
-excerpt: "This study aims to assimilate a reprocessed temporal-spatial fltered MODIS Leaf Area Index product into the model to derive the 1 km daily AGB dataset of the main winter wheat producing areas in China from 2007 to 2015.<br/><img src='/wen/images/SD2022.jpg' width='500' height='332'>"
+excerpt: "This study aims to assimilate a reprocessed temporal-spatial fltered MODIS Leaf Area Index product into the model to derive the 1 km daily AGB dataset of the main winter wheat producing areas in China from 2007 to 2015.<br/><br/><img src='/wen/images/SD2022.jpg' width='500' height='332'>"
 date: 2022-05-11
 venue: 'Scientific Data'
 paperurl: 'https://doi.org/10.1038/s41597-022-01305-6'
