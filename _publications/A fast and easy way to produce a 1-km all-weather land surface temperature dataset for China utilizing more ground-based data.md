@@ -2,7 +2,7 @@
 title: "A fast and easy way to produce a 1-km all-weather land surface temperature dataset for China utilizing more ground-based data"
 collection: publications
 permalink: /publication/A fast and easy way to produce a 1-km all-weather land surface temperature dataset for China utilizing more ground-based data
-excerpt: "This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data.<br/><img src='/wen/images/TGRS2024.jpg' width='500' height='438'>"
+excerpt: "This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data.<br/><br/><img src='/wen/images/TGRS2024.jpg' width='500' height='438'>"
 date: 2024-02-22
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://doi.org/10.1109/TGRS.2024.3368707'
