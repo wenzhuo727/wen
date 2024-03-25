@@ -56,7 +56,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-❤ Service
+🧡 Service
 ======
 * Journals Reviewer
   * Agricultural and Forest Meteorology, Agricultural Water Management, Agriculture, Agriengineering, Agronomy, Agronomy Journal, Artificial Intelligence Review, Atmosphere, Computers and Electronics in Agriculture, Drones, Environmental and Sustainability Indicators, European Journal of Agronomy, Field Crops Research, Frontiers in Ecology and Evolution, Geomatics Natural Hazards & Risk, Geocarto International, Geo-Spatial Information Science, GIScience & Remote Sensing, IEEE Access, International Journal of Applied Earth Observation and Geoinformation, International Journal of Digital Earth, International Journal of Remote Sensing, Journal of Hydrology, Journal of the Science of Food and Agriculture, Meteorological Applications, Polish Journal of Environmental Studies, Remote Sensing, Scientific Reports, Sensors, Sustainability
