@@ -2,7 +2,7 @@
 title: "Prediction of winter wheat maturity dates through assimilating remotely sensed leaf area index into crop growth model"
 collection: publications
 permalink: /publication/Prediction of winter wheat maturity dates through assimilating remotely sensed leaf area index into crop growth model
-excerpt: "In this study, a data assimilation framework incorporating the LAI product from MODIS into a WOFOST model was proposed to predict the maturity dates of winter wheat in Henan province, China.<br/><br/><img src='/wen/images/RS2020.jpg' width='500' height='260'>"
+excerpt: "In this study, a data assimilation framework incorporating the LAI product from MODIS into a WOFOST model was proposed to predict the maturity dates of winter wheat in Henan province, China."#<br/><br/><img src='/wen/images/RS2020.jpg' width='500' height='260'>
 date: 2020-09-07
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs12182896'
