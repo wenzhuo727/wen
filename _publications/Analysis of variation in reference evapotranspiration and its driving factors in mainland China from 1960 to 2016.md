@@ -2,7 +2,7 @@
 title: "Analysis of variation in reference evapotranspiration and its driving factors in mainland China from 1960 to 2016"
 collection: publications
 permalink: /publication/Analysis of variation in reference evapotranspiration and its driving factors in mainland China from 1960 to 2016
-excerpt: "This study aims to analyze the spatial distribution of annual and seasonal ETo in mainland China from 1960 to 2016.<br/><br/><img src='/wen/images/ERL2021.jpg' width='500' height='429' alt='this is the description'>"
+excerpt: "This study aims to analyze the spatial distribution of annual and seasonal ETo in mainland China from 1960 to 2016."#<br/><br/><img src='/wen/images/ERL2021.jpg' width='500' height='429' alt='this is the description'>
 date: 2021-04-22
 venue: 'Environmental Research Letters'
 paperurl: 'https://doi.org/10.1088/1748-9326/abf687'
