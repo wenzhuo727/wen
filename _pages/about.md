@@ -11,13 +11,13 @@ Hi! My name is Wen Zhuo, currently a postdoctoral researcher in [School of Earth
 
 If you are interested in my research, feel free to reach me to discuss relevant research and topics by email: zhuowen1992@foxmail.com.
 
-## Research Interests
+## 📖 Research Interests
 * Crop yield estimation
 * Crop model data assimilation
 * Drought monitoring
 * Causal inference, causal effect analysis
 
-## Recent News (this year)
+## 🔥 Recent News (this year)
 
 **[Mar. 2024]** 
 * I will attend [**EGU2024**](https://www.egu24.eu/) at Vienna, Austria in person during Apr. 14-19 (for the first time to attend the assembly).
