@@ -23,8 +23,8 @@ author_profile: true
    * The objective of this study was to estimate winter wheat yield at the regional scale in the NCP, and to improve yield estimation accuracy by integrating remotely sensed water stress factor with the WOFOST model. [Download paper here](https://wenzhuo727.github.io/wen/files/CJ2022.pdf)
    * <img src='/wen/images/CJ2022.jpg' width='500' height='227'>
 
-## ⭐*<u>All Paper List (Since 2018, a total of 18 peer-reviewed journal papers)</u>*⭐
-_【Click the **article title** to see more details ❗】_
+## ⭐*<u>All Paper List (18 peer-reviewed journal papers in total since 2018)</u>*⭐
+_[Click the **article title** for more details ❗]_
 
 {% include base_path %}
 
