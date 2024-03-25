@@ -2,7 +2,7 @@
 title: "Using long-term earth observation data to reveal the factors contributing to the early 2020 desert locust upsurge and the resulting vegetation loss"
 collection: publications
 permalink: /publication/Using long-term earth observation data to reveal the factors contributing to the early 2020 desert locust upsurge and the resulting vegetation loss
-excerpt: "In this study, remotely sensed images and long-term meteorological observations across the desert locust invasion area were analyzed to explore the complex drivers, vegetation losses and growing trends during the locust upsurge.<br/><br/><img src='/wen/images/RS2021.jpg' width='500' height='343'>"
+excerpt: "In this study, remotely sensed images and long-term meteorological observations across the desert locust invasion area were analyzed to explore the complex drivers, vegetation losses and growing trends during the locust upsurge."#<br/><br/><img src='/wen/images/RS2021.jpg' width='500' height='343'>
 date: 2021-02-13
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs13040680'
