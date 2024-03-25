@@ -2,7 +2,7 @@
 title: "The Improved Winter Wheat Yield Estimation by Assimilating GLASS LAI Into a Crop Growth Model With the Proposed Bayesian Posterior-Based Ensemble Kalman Filter"
 collection: publications
 permalink: /publication/The Improved Winter Wheat Yield Estimation by Assimilating GLASS LAI Into a Crop Growth Model With the Proposed Bayesian Posterior-Based Ensemble Kalman Filter
-excerpt: "This study introduces the Bayesian posterior uncertain information from MCMC calibration into an EnKF data assimilation framework to better quantify the model uncertainty in the data assimilation system.<br/><br/><img src='/wen/images/TGRS2023.jpg' width='500' height='402'>"
+excerpt: "This study introduces the Bayesian posterior uncertain information from MCMC calibration into an EnKF data assimilation framework to better quantify the model uncertainty in the data assimilation system."#<br/><br/><img src='/wen/images/TGRS2023.jpg' width='500' height='402'>
 date: 2023-03-29
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://doi.org/10.1109/TGRS.2023.3259742'
