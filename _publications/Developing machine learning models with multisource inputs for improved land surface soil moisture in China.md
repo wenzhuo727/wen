@@ -2,7 +2,7 @@
 title: "Developing machine learning models with multisource inputs for improved land surface soil moisture in China"
 collection: publications
 permalink: /publication/Developing machine learning models with multisource inputs for improved land surface soil moisture in China
-excerpt: "This paper aims to achieve accurate and spatiotemporally continuous land SSM coverage within the 0–10 cm soil layer by building and comparing models with fve frequently used ML techniques.<br/><br/><img src='/wen/images/CEA2021.jpg' width='500' height='403'>"
+excerpt: "This paper aims to achieve accurate and spatiotemporally continuous land SSM coverage within the 0–10 cm soil layer by building and comparing models with fve frequently used ML techniques."#<br/><br/><img src='/wen/images/CEA2021.jpg' width='500' height='403'>
 date: 2021-12-17
 venue: 'Computers and Electronics in Agriculture'
 paperurl: 'https://doi.org/10.1016/j.compag.2021.106623'
