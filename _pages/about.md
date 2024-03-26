@@ -22,12 +22,13 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 **[Mar. 2024]** 
 * I will attend [**EGU2024**](https://www.egu24.eu/) at Vienna, Austria in person during Apr. 14-19 (for the first time to attend the assembly).
 
-* New paper led by Jiahao Han was published in [Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2024.169992). The main topic is about the time-continuous LST data simulation using deep learning (U-Net family) [Download paper here](https://wenzhuo727.github.io/wen/files/STE2024.pdf)
-
 **[Feb. 2024]** 
+* New paper led by [Dr. Yanru Yu](https://www.researchgate.net/profile/Yanru-Yu-2) was published in [IEEE Transactions on Geoscience and Remote Sensing](https://doi.org/10.1109/TGRS.2024.3368707). This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data. [Download paper here](https://wenzhuo727.github.io/wen/files/TGRS2024.pdf)
+
 * The [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-4191.html) submitted to [**EGU2024**](https://www.egu24.eu/) is already online.
 
-* New paper led by [Dr. Yanru Yu](https://www.researchgate.net/profile/Yanru-Yu-2) was published in [IEEE Transactions on Geoscience and Remote Sensing](https://doi.org/10.1109/TGRS.2024.3368707). This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data. [Download paper here](https://wenzhuo727.github.io/wen/files/TGRS2024.pdf)
+**[Jan. 2024]**
+* New paper led by Jiahao Han was published in [Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2024.169992). The main topic is about the time-continuous LST data simulation using deep learning (U-Net family) [Download paper here](https://wenzhuo727.github.io/wen/files/STE2024.pdf)
 
 -------------
 
