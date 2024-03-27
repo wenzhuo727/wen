@@ -10,9 +10,9 @@ author_profile: true
 {% endif %}
 
 ## 🌟*<u>Selected Paper</u>*🌟
-1. **Wen, Zhuo**; Hai, Huang; Xinran, Gao; Xuecao, Li; Jianxi, Huang. [An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model](https://doi.org/10.3390/rs15071825). **Remote Sensing**, 2023; 15(7):1825. {% assign citations = site.data.gs_data %}
-{% if citations['publications'] %}
-Citation: {{ citations['cited_by'] }}
+1. **Wen, Zhuo**; Hai, Huang; Xinran, Gao; Xuecao, Li; Jianxi, Huang*. [An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model](https://doi.org/10.3390/rs15071825). **Remote Sensing**, 2023; 15(7):1825. {% assign citations = site.data.citations %}
+{% if site.author.googlescholar %}
+Citation: {{ citations['publications']['OjcQtH4AAAAJ:qjMakFHDy7sC']['num_citations'] }}
 {% else %}
 Citation: 0
 {% endif %}
