@@ -25,7 +25,6 @@ author_profile: true
 
 ## ⭐*<u>All Paper List (18 peer-reviewed journal papers in total since 2018)</u>*⭐
 _====Click the **article title** for more details ❗====_
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
