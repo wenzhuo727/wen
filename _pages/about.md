@@ -28,7 +28,7 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 * The [abstract](https://meetingorganizer.copernicus.org/EGU24/EGU24-4191.html) submitted to [**EGU2024**](https://www.egu24.eu/) is already online.
 
 **[Jan. 2024]**
-* New paper led by Jiahao Han was published in [Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2024.169992). The main topic is about the time-continuous LST data simulation using deep learning (U-Net family) [Download paper here](https://wenzhuo727.github.io/wen/files/STE2024.pdf)
+* New paper led by Dr. Jiahao Han was published in [Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2024.169992). The main topic is about the time-continuous LST data simulation using deep learning (U-Net family) [Download paper here](https://wenzhuo727.github.io/wen/files/STE2024.pdf)
 
 -------------
 
