@@ -27,6 +27,6 @@ author_profile: true
 _====Click the **article title** for more details ❗====_
 {% include base_path %}
 
-<ul>{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}</ul>
+{% endfor %}
