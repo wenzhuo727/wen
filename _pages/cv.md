@@ -11,10 +11,20 @@ redirect_from:
 
 📖 Education
 ======
-* **Ph.D** in Agricultural Information Technology, China Agricultural University, 2020 (**Supervisor**: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html), [Prof. Xiaodong Zhang](http://clst.cau.edu.cn/art/2018/8/8/art_31196_580627.html))
-  * **Visiting Scholar** at the Center for Earth Observation and Modeling, University of Oklahoma, 2019 (**Supervisor**: [Prof. Xiangming Xiao](https://www.ou.edu/irees/about/people/staff-and-partners/xiangming-xiao))
-* **M.S.** in Geographical Information Science, China Agricultural University, 2015 (**Supervisor**: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html))
-* **B.S.** in Geographical Information Science, Huazhong Agricultural University, 2013
+* **Ph.D**, China Agricultural University, 2020
+  * Major: Agricultural Information Technology
+  * Department: College of Land Science and Technology
+  * Supervisor: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html), [Prof. Xiaodong Zhang](http://clst.cau.edu.cn/art/2018/8/8/art_31196_580627.html)
+* **Visiting Scholar**,  University of Oklahoma, 2019
+  * Department: Center for Earth Observation and Modeling (CEOM)
+  * Supervisor: [Prof. Xiangming Xiao](https://www.ou.edu/irees/about/people/staff-and-partners/xiangming-xiao)
+* **M.S.**, China Agricultural University, 2015
+  * Major: Geographical Information Science
+  * Department: College of Information and Electrical Engineering
+  * Supervisor: [Prof. Jianxi Huang](http://clst.cau.edu.cn/art/2018/8/7/art_31196_580539.html)
+* **B.S.**, Huazhong Agricultural University, 2013
+  * Major: Geographical Information Science
+  * Department: College of Resources and Environment
 
 💼 Work experience
 ======
