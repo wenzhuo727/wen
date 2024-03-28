@@ -20,7 +20,7 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 ## 🔥 Recent News (this year)
 
 **[Mar. 2024]** 
-* I will attend [**EGU2024**](https://www.egu24.eu/) at Vienna, Austria in person✈ during Apr. 14-19 (for the first time to attend the assembly).
+* I will attend [**EGU2024**](https://www.egu24.eu/) at Vienna, Austria in person ✈🛫 during Apr. 14-19 (for the first time to attend the assembly).
 
 **[Feb. 2024]** 
 * New paper led by [Dr. Yanru Yu](https://www.researchgate.net/profile/Yanru-Yu-2) was published in [IEEE Transactions on Geoscience and Remote Sensing](https://doi.org/10.1109/TGRS.2024.3368707). This study is to achieve the simple and rapid acquisition of high-precision all-weather high temporal and spatial resolution daily mean land surface temperature data. [Download paper here](https://wenzhuo727.github.io/wen/files/TGRS2024.pdf)
