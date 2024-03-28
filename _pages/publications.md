@@ -11,10 +11,6 @@ author_profile: true
 
 ## 🌟*<u>Selected Paper</u>*🌟
 1. **Wen, Zhuo**; Hai, Huang; Xinran, Gao; Xuecao, Li; Jianxi, Huang. [An Improved Approach of Winter Wheat Yield Estimation by Jointly Assimilating Remotely Sensed Leaf Area Index and Soil Moisture into the WOFOST Model](https://doi.org/10.3390/rs15071825). **Remote Sensing**, 2023; 15(7):1825.
-{% assign citation = site.data.citations %}
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Citations: </div> citations['publications']['OjcQtH4AAAAJ:qjMakFHDy7sC']['num_citations']
-{% endif %}
    * This study aims to examine the accuracy of crop yield estimation through the joint assimilation of leaf area index (LAI) and soil moisture (SM) and to examine the scale effect between remotely sensed data and crop model simulations. [Download paper here](https://wenzhuo727.github.io/wen/files/remotesensing2023.pdf)
    * <img src='/wen/images/RS2023.jpg' width='500'>
 1. **Wen, Zhuo**; Shibo, Fang; Xinran, Gao; Lei, Wang; Dong, Wu; Shaolong, Fu; Qingling, Wu; Jianxi, Huang. [Crop yield prediction using MODIS LAI, TIGGE weather forecasts and WOFOST model: A case study for winter wheat in Hebei, China during 2009–2013](https://doi.org/10.1016/j.jag.2021.102668). **International Journal of Applied Earth Observation and Geoinformation**, 2022; 106, 102668.
@@ -32,6 +28,8 @@ _====Click the **article title** for more details ❗====_
 
 {% include base_path %}
 
-<ul>{% for post in site.publications reversed %}
+<ul>
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}</ul>
+{% endfor %}
+</ul>
