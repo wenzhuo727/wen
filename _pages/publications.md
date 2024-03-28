@@ -28,14 +28,7 @@ _====Click the **article title** for more details ❗====_
 
 {% include base_path %}
 
-<style>
-  .square-list {
-    list-style-type: square; 
-  }
-</style>
-
-<ul class="square-list">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-</ul>
+
