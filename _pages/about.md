@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there👋! My name is Wen Zhuo, currently a postdoctoral researcher in [School of Earth, Environment & Scociety](https://sees.mcmaster.ca/), [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Alemu Gonsamo](https://remotesensing-mcmaster.org/). Now, my core research interests center around crop yield estimation and prediction. To address this research question, my research leverages various methods, including process-based model (mainly WOFOST model), data assimilation (integrates remotely sensed observations with crop growth model), and deep learning.
+Hi there👋! My name is Wen Zhuo, currently a postdoctoral researcher in [School of Earth, Environment & Society](https://sees.mcmaster.ca/), [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Alemu Gonsamo](https://remotesensing-mcmaster.org/). Now, my core research interests center around crop yield estimation and prediction. To address this research question, my research leverages various methods, including process-based model (mainly WOFOST model), data assimilation (integrates remotely sensed observations with crop growth model), and deep learning.
 
 If you are interested in my research, feel free to reach me to discuss relevant research and topics by email: [zhuow4@mcmaster.ca](mailto:zhuow4@mcmaster.ca) or [zhuowen1992@foxmail.com](mailto:zhuowen1992@foxmail.com) (preferred).
 
@@ -18,6 +18,9 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 * Causal inference, causal effect analysis
 
 ## 🔥 Recent News (this year)
+
+**[Apr. 2024]**
+* A new Speciall Issue called "[Cropland and Yield Mapping with Multi-source Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/2COE8TP02U)" in *Remote Sensing* led by me, [Prof. Shibo Fang](https://people.ucas.ac.cn/~0039464), [Prof. Yi Xie](https://dlxy.sxnu.edu.cn/info/1063/5224.htm), and [Prof. Xiaochuang Yao](https://clst.cau.edu.cn/art/2019/11/12/art_31197_648080.html) has been set up, contributions are very welcome!
 
 **[Mar. 2024]** 
 * I will attend [**EGU2024**](https://www.egu24.eu/) at Vienna, Austria in person during Apr. 14-19 (for the first time to attend the assembly).
