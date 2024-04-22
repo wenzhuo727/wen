@@ -21,6 +21,7 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 
 **[Apr. 2024]**
 * A new Speciall Issue called "[Cropland and Yield Mapping with Multi-source Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/2COE8TP02U)" in *Remote Sensing* led by me, [Prof. Shibo Fang](https://people.ucas.ac.cn/~0039464), [Prof. Yi Xie](https://dlxy.sxnu.edu.cn/info/1063/5224.htm), and [Prof. Xiaochuang Yao](https://clst.cau.edu.cn/art/2019/11/12/art_31197_648080.html) has been set up, contributions are very welcome!
+* A Google Cloud Research Credits Program - "Research on crop yield estimation based on spatiotemporal information attention" has been awarded by Google Cloud Education Programs Team.
 
 **[Mar. 2024]** 
 * I will attend [**EGU2024**](https://www.egu24.eu/) at Vienna, Austria in person during Apr. 14-19 (for the first time to attend the assembly).
