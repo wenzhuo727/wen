@@ -28,7 +28,10 @@ redirect_from:
 
 💼 Work experience
 ======
-* Jan.2023 - Now: **Postdoctoral Researcher**
+* Sep.2025 - Now: **Assistant Professor**
+  * Institute of Ecology and Agrometeorology, Chinese Academy of Meteorological Sciences
+  
+* Jan.2023 - Aug.2025: **Postdoctoral Researcher**
   * School of Earth, Environment & Society, McMaster University
   * Supervisor: [Prof. Alemu Gonsamo](https://remotesensing-mcmaster.org/)
 
