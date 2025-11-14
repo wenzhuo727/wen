@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there👋! My name is Wen Zhuo, currently a postdoctoral researcher in [School of Earth, Environment & Society](https://sees.mcmaster.ca/), [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Alemu Gonsamo](https://remotesensing-mcmaster.org/). Now, my core research interests center around crop yield estimation and prediction. To address this research question, my research leverages various methods, including process-based model (mainly WOFOST model), data assimilation (integrates remotely sensed observations with crop growth model), and deep learning.
+Hi there👋! My name is Wen Zhuo, currently an assitant professor in Chinese Academy of Meteorological Sciences. Prior to this, I conducted postdoctoral research in [School of Earth, Environment & Society](https://sees.mcmaster.ca/), [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Alemu Gonsamo](https://remotesensing-mcmaster.org/). Now, my core research interests center around crop yield estimation and prediction. To address this research question, my research leverages various methods, including process-based model (mainly WOFOST model), data assimilation (integrates remotely sensed observations with crop growth model), and deep learning.
 
 If you are interested in my research, feel free to reach me to discuss relevant research and topics by email: [zhuow4@mcmaster.ca](mailto:zhuow4@mcmaster.ca) or [zhuowen1992@foxmail.com](mailto:zhuowen1992@foxmail.com) (preferred).
 
