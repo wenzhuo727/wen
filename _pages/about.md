@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there👋! My name is Wen Zhuo, currently an assitant professor in Chinese Academy of Meteorological Sciences. Prior to this, I conducted postdoctoral research in [School of Earth, Environment & Society](https://sees.mcmaster.ca/), [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Alemu Gonsamo](https://remotesensing-mcmaster.org/). Now, my core research interests center around crop yield estimation and prediction. To address this research question, my research leverages various methods, including process-based model (mainly WOFOST model), data assimilation (integrates remotely sensed observations with crop growth model), and deep learning.
+Hi there👋! My name is Wen Zhuo, currently an assistant professor in Chinese Academy of Meteorological Sciences. Prior to this, I conducted postdoctoral research in [School of Earth, Environment & Society](https://sees.mcmaster.ca/), [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Alemu Gonsamo](https://remotesensing-mcmaster.org/). Now, my core research interests center around crop yield estimation and prediction. To address this research question, my research leverages various methods, including process-based model (mainly WOFOST model), data assimilation (integrates remotely sensed observations with crop growth model), and deep learning.
 
 If you are interested in my research, feel free to reach me to discuss relevant research and topics by email: [zhuow4@mcmaster.ca](mailto:zhuow4@mcmaster.ca) or [zhuowen1992@foxmail.com](mailto:zhuowen1992@foxmail.com) (preferred).
 
@@ -19,7 +19,13 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 
 ## 🔥 Recent News (this year)
 
-**[Apr. 2024]**
+**[Nov. 2025]** 
+* New paper led by me was published in [Journal of Hydrology](https://doi.org/10.1016/j.jhydrol.2025.134534). This study is to explore the causal pathways among SM, Temperatuer, Precipitation and ocean–atmosphere teleconnection patterns over the Greater Horn of Africa.
+
+**[Sep. 2025]** 
+* I become an assistant professor in Chinese Academy of Meteorological Sciences.
+
+# **[Apr. 2024]**
 * A new Speciall Issue called "[Cropland and Yield Mapping with Multi-source Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/2COE8TP02U)" in *Remote Sensing* led by me, [Prof. Shibo Fang](https://people.ucas.ac.cn/~0039464), [Prof. Yi Xie](https://dlxy.sxnu.edu.cn/info/1063/5224.htm), and [Prof. Xiaochuang Yao](https://clst.cau.edu.cn/art/2019/11/12/art_31197_648080.html) has been set up, contributions are very welcome!
 * A Google Cloud Research Credits Program - "Research on crop yield estimation based on spatiotemporal information attention" has been awarded by Google Cloud Education Programs Team.
 
