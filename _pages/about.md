@@ -19,6 +19,9 @@ If you are interested in my research, feel free to reach me to discuss relevant 
 
 ## 🔥 Recent News
 
+**[Feb. 2026]** 
+* New paper led by me was published in [ISPRS Journal of Photogrammetry and Remote Sensing](https://doi.org/10.1016/j.isprsjprs.2026.02.038). This study integrates both spatial and temporal information for global vegetation greenness forecasting using deep learning models.
+
 **[Nov. 2025]** 
 * New paper led by me was published in [Journal of Hydrology](https://doi.org/10.1016/j.jhydrol.2025.134534). This study is to explore the causal pathways among SM, Temperature, Precipitation and ocean–atmosphere teleconnection patterns over the Greater Horn of Africa.
 
